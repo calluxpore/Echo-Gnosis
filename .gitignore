@@ -29,8 +29,8 @@ MANIFEST
 
 # Temporary generated audio files
 *.wav
-echo-gnosis/temp_alert.wav
-echo-gnosis/test_alert.wav
+temp_alert.wav
+test_alert.wav
 
 # Local binaries and large voice models (downloaded separately by user)
 piper/
